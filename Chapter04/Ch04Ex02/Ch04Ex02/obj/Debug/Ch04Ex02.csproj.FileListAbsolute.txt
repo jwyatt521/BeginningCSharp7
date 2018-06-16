@@ -5,3 +5,10 @@ C:\BeginningCSharp7\Chapter04\Ch04Ex02\Ch04Ex02\obj\Debug\Ch04Ex02.csprojAssembl
 C:\BeginningCSharp7\Chapter04\Ch04Ex02\Ch04Ex02\obj\Debug\Ch04Ex02.csproj.CoreCompileInputs.cache
 C:\BeginningCSharp7\Chapter04\Ch04Ex02\Ch04Ex02\obj\Debug\Ch04Ex02.exe
 C:\BeginningCSharp7\Chapter04\Ch04Ex02\Ch04Ex02\obj\Debug\Ch04Ex02.pdb
+C:\git\BeginningCSharp7\Chapter04\Ch04Ex02\Ch04Ex02\bin\Debug\Ch04Ex02.exe.config
+C:\git\BeginningCSharp7\Chapter04\Ch04Ex02\Ch04Ex02\bin\Debug\Ch04Ex02.exe
+C:\git\BeginningCSharp7\Chapter04\Ch04Ex02\Ch04Ex02\bin\Debug\Ch04Ex02.pdb
+C:\git\BeginningCSharp7\Chapter04\Ch04Ex02\Ch04Ex02\obj\Debug\Ch04Ex02.csprojAssemblyReference.cache
+C:\git\BeginningCSharp7\Chapter04\Ch04Ex02\Ch04Ex02\obj\Debug\Ch04Ex02.csproj.CoreCompileInputs.cache
+C:\git\BeginningCSharp7\Chapter04\Ch04Ex02\Ch04Ex02\obj\Debug\Ch04Ex02.exe
+C:\git\BeginningCSharp7\Chapter04\Ch04Ex02\Ch04Ex02\obj\Debug\Ch04Ex02.pdb

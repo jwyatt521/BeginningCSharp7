@@ -23,8 +23,7 @@ namespace Ch04Ex02
             {
                 if (var1 == var2)
                     comparison = "equal to";
-                else
-                    comparison = "greater than";
+                else comparison = "greater than";
             }
             WriteLine($"The first number is {comparison} " +
                 $"the second number.");
