@@ -1,0 +1,6 @@
+C:\BeginningCSharp7\Assignments\Assignment02\Assignment02\bin\Release\Assignment02.exe.config
+C:\BeginningCSharp7\Assignments\Assignment02\Assignment02\bin\Release\Assignment02.exe
+C:\BeginningCSharp7\Assignments\Assignment02\Assignment02\bin\Release\Assignment02.pdb
+C:\BeginningCSharp7\Assignments\Assignment02\Assignment02\obj\Release\Assignment02.csproj.CoreCompileInputs.cache
+C:\BeginningCSharp7\Assignments\Assignment02\Assignment02\obj\Release\Assignment02.exe
+C:\BeginningCSharp7\Assignments\Assignment02\Assignment02\obj\Release\Assignment02.pdb
