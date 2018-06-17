@@ -28,7 +28,7 @@ namespace Ch04Ex05
             WriteLine($"In {totalYears} year{(totalYears == 1 ? "" : "s")} " +
                       $"you'll have a balance of {balance}.");
             if (totalYears == 0)
-                WriteLine("To be honest you really didn't need to use this calculator.");
+                WriteLine("To be brutally honest you really didn't need to use this calculator.");
             ReadKey();
 
         }
