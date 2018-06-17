@@ -18,6 +18,14 @@ namespace Ch04Ex04
             WriteLine("What is your current annual interest rate (in %)?");
             interestRate = 1 + ToDouble(ReadLine()) / 100.0;
             WriteLine("What balance would you like to have?");
+            do
+            {
+                targetBalance = ToDouble(ReadLine());
+                if (targetBalance <= balance)
+                    WriteLine("You must enter an amount greater than your " +
+                        "current balance!\nPlease enter another value.");
+            }
+            while (balance <= targetBalance);
             targetBalance = ToDouble(ReadLine());
             int totalYears = 0;
             do
