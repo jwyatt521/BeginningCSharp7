@@ -9,6 +9,7 @@ namespace Ch06Ex02
 {
     class Program
     {
+        //come back and understand this better
         static int MaxValue(int[] intArray)
         {
             int maxVal = intArray[0];
