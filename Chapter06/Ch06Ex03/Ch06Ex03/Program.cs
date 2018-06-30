@@ -20,6 +20,7 @@ namespace Ch06Ex03
         }
         static void Main(string[] args)
         {
+            //this is a list of values that our function SumVals places into an array
             int sum = SumVals(1, 5, 2, 9, 8);
             WriteLine($"Summed Values = {sum}");
             ReadKey();
